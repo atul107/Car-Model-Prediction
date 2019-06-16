@@ -1,7 +1,7 @@
 # Car-Model-Prediction
 
 # Trained models
-Download the [trained model]() and [ResNet-152]() in "models" folder.
+Download the [trained model](https://drive.google.com/file/d/1nJLGry3Gh8ODtrDZfdlQGSxAzfUEbJM6/view?usp=sharing) and [ResNet-152](https://drive.google.com/file/d/1WZ7byhq6XfPHowmC-un-4HdSYRZVz1bt/view?usp=sharing) in "models" folder.
 
 # Demo
 Download the image which you want to test in the folder named data
