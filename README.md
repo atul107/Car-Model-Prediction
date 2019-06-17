@@ -1,3 +1,7 @@
+# Requirements 
+```
+pip install -r requirements.txt
+```
 # Car-Model-Prediction
 
 # Trained models
