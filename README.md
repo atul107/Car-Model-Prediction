@@ -1,19 +1,20 @@
-# Requirements 
+# Car-Model-Prediction
+
+## Requirements 
 ```
 pip install -r requirements.txt
 ```
-# Car-Model-Prediction
 
-# Trained models
+## Trained models
 Download the [trained model](https://drive.google.com/file/d/1nJLGry3Gh8ODtrDZfdlQGSxAzfUEbJM6/view?usp=sharing) and [ResNet-152](https://drive.google.com/file/d/1WZ7byhq6XfPHowmC-un-4HdSYRZVz1bt/view?usp=sharing) in "models" folder.
 
-# Demo
+## Demo
 Download the image which you want to test in the folder named data
 ```
 $ python demo.py image_name
 ```
 
-# Analysis
+## Analysis
 ```
 $ python analyze.py
 ```
@@ -21,7 +22,7 @@ $ python analyze.py
 ### Validation Accuracy
 88.70%
 
-# Test
+## Test
 ```
 $ python test.py
 ```
